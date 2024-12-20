@@ -27,18 +27,23 @@ Importance of Finance Data Analysis:
 
 Benchmark performance against industry standards and historical trends.
 Provide a foundation for budgeting and forecasting.
+
 Role of Reports:
 
 Align financial planning with strategic goals.
 Strengthen confidence in the organization’s financial position.
+
 Technical Skills:
+
 Proficient in ETL (Extract, Transform, Load) processes.
 Skilled in creating date tables using Power Query.
 Experienced in deriving fiscal months and quarters.
 Capable of establishing relationships in data models with Power Pivot.
 Proficient in incorporating additional data into existing data models.
 Adept at using DAX to develop calculated columns.
+
 Soft Skills:
+
 Strong understanding of Sales and Finance reporting.
 Expertise in designing user-focused, intuitive reports.
 Ability to optimize report generation through detailed refinements.
