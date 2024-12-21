@@ -20,6 +20,7 @@ Project Objective:
 
 Generate Profit and Loss (P&L) statements by [Fiscal Year](https://github.com/keerthana883/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [months](https://github.com/keerthana883/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 Create P&L statements for specific [Markets](https://github.com/keerthana883/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+
 Purpose of Financial Analysis:
 Assess financial health, enhance decision-making, and improve communication with stakeholders.
 
